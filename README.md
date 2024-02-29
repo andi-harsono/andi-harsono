@@ -1,9 +1,8 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andi-harsono&label=Profile%20views&color=0e75b6&style=flat" alt="andi-harsono" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andi-harsono" alt="andi-harsono" /></a> </p>
+<h1 align="center">Andi Harsono</h1>
 
 - 👨‍💻 All of my projects are available at [https://andi-harsono.github.io/](https://andi-harsono.github.io/)
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andi-harsono" alt="andi-harsono" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/andi._.harsono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andi._.harsono" height="30" width="40" /></a>
@@ -17,3 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andi-harsono&show_icons=true&locale=en" alt="andi-harsono" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andi-harsono&" alt="andi-harsono" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andi-harsono&label=Profile%20views&color=0e75b6&style=flat" alt="andi-harsono" /> </p>
