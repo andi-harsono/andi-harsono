@@ -34,9 +34,9 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andi-harsono&show_icons=true&locale=en&layout=compact" alt="andi-harsono" /></p>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=andi-harsono&show_icons=true&locale=en" alt="andi-harsono" width="400"   /> </p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=andi-harsono&show_icons=true&locale=en" alt="andi-harsono" width="390"   /> </p>
 
-<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=andi-harsono&" alt="andi-harsono" width="420" height="166"/> </p>
+<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=andi-harsono&" alt="andi-harsono" width="410" /> </p>
 <br>
 
 
