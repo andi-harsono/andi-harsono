@@ -1,10 +1,23 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9nZXc0dmk3aXpseGF4aHMwcHFxMHFpNzJ6aHhicmJvejdkOGhzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11kEuHSQAXXiGQ/giphy.gif" alt="GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnoxODZ2YmsyZGZ0ejY3MGkydTZpOHJlNjFhcmxuYjg4enpqbW5lcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJVw6tIfb2dIwTHFb0/giphy.gif" alt="GIF" style="width: 100%;" />
 </p>
 
 <h1 align="center" >Andi Harsono </h1>
 
 ***
+
+- 👨‍💻 All of my projects are available at [https://andi-harsono.github.io/](https://andi-harsono.github.io/)
+
+ <img align="right" src="https://github.com/andi-harsono/andi-harsono/blob/main/Frustrated_programmer_qeR3D5O.gif" alt="GIF" />
+
+- 👨‍💻 All of my projects are available at [https://andi-harsono.github.io/](https://andi-harsono.github.io/)
+
+- 👨‍💻 All of my projects are available at [https://andi-harsono.github.io/](https://andi-harsono.github.io/)
+
+- 👨‍💻 All of my projects are available at [https://andi-harsono.github.io/](https://andi-harsono.github.io/)
+
+- 👨‍💻 All of my projects are available at [https://andi-harsono.github.io/](https://andi-harsono.github.io/)
+
 
 - 👨‍💻 All of my projects are available at [https://andi-harsono.github.io/](https://andi-harsono.github.io/)
 
