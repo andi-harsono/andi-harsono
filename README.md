@@ -1,5 +1,6 @@
+![Panda Dancing](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9nZXc0dmk3aXpseGF4aHMwcHFxMHFpNzJ6aHhicmJvejdkOGhzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11kEuHSQAXXiGQ/giphy.gif)
 
-<h1 style="color:red;" align="center" >Andi Harsono </h1>
+<h1 align="center" >Andi Harsono </h1>
 
 ***
 
