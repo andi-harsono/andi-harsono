@@ -16,7 +16,7 @@
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=andi-harsono&show_icons=true&locale=en" alt="andi-harsono" width="400"   /> </p>
 
-<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=andi-harsono&" alt="andi-harsono" width="450" height="166"/> </p>
+<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=andi-harsono&" alt="andi-harsono" width="420" height="166"/> </p>
 <p align="center" style="margin-top: "20"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andi-harsono" alt="andi-harsono" /></a> </p>
 
 <h3 align="right">Connect with me:</h3>
