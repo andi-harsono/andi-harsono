@@ -8,8 +8,6 @@
 - 🔭 I’m currently working on ...
 - 👨‍💻 All of my projects are available at [https://andi-harsono.github.io/](https://andi-harsono.github.io/)
 
- <img align="right" src="https://github.com/andi-harsono/andi-harsono/blob/main/Frustrated_programmer_qeR3D5O.gif" alt="GIF" />
-
 
 ***
 
